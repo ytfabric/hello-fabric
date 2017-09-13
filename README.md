@@ -3,3 +3,4 @@ we are a team that belongs to Yitong compony who love block chain and believe th
 I have cloned the repository to local host.
 I am editing in the Notepad++.
 just now I create a new brance called wspfabric.
+I try again to make sure which readme.txt I am editing on.
